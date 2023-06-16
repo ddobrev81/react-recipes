@@ -1,0 +1,22 @@
+{
+    "recipes": [
+        {
+            "title": "First recipe",
+            "body": "This prestige is a prestige that sacrifices mobility for better creep effectiveness. It works by improving the effectiveness of both you and your ally's units by providing them with extra attack speed, healing and map vision. If using this prestige, it is much better to spread Creep using other Creep Tumors than planting new ones. Newly-planted Creep Tumors build much slower than ones that are spread.",
+            "author": "Dodo",
+            "id": 1
+        },
+        {
+            "title": "Second recipe",
+            "body": "This prestige is a prestige that sacrifices mobility for better creep effectiveness. It works by improving the effectiveness of both you and your ally's units by providing them with extra attack speed, healing and map vision. If using this prestige, it is much better to spread Creep using other Creep Tumors than planting new ones. Newly-planted Creep Tumors build much slower than ones that are spread.",
+            "author": "Joro",
+            "id": 2
+        },
+        {
+            "title": "MMMMmmmmm recipe",
+            "body": "This prestige is a prestige that sacrifices mobility for better creep effectiveness. It works by improving the effectiveness of both you and your ally's units by providing them with extra attack speed, healing and map vision. If using this prestige, it is much better to spread Creep using other Creep Tumors than planting new ones. Newly-planted Creep Tumors build much slower than ones that are spread.",
+            "author": "Dodo",
+            "id": 3
+        }
+    ]
+}
